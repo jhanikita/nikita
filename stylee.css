@@ -1,0 +1,49 @@
+#top {
+    background-color: beige;
+}
+
+.header_menu h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.header_menu .container {
+    position: relative;
+}
+
+.header_menu .navbar {
+    position: absolute;
+    top: 8px;
+    right: 10px;
+    font-weight: 10px;
+    position: fixed;
+}
+
+.header_menu img {
+    opacity: 0.85;
+    filter: drop-shadow(8px 8px 10px black);
+}
+
+.header_menu .name {
+    position: absolute;
+    top: 8px;
+    left: 20px;
+}
+
+.header_menu .name h1 {
+    font-weight: bolder;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.header_menu .navbar a {
+    font-weight: bold;
+    font-size: large;
+}
+
+.welcome h1 {
+    font-size: 70px;
+}
+
+.content1 p {
+    font-size: 30px;
+}
